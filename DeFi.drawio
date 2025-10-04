@@ -143,6 +143,21 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-41" target="iiNi1Qw4i7DMWbjdPbIf-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مدیریت پول و سرمایه گفته میشود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="830" width="320" height="50" as="geometry" />
         </mxCell>
@@ -151,6 +166,15 @@
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پول را کجا خرج کنیم (سرمایه گذاری)&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="10" y="830" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ارزش زمانی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="960" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;نقدینگی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="240" y="960" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ریسک و بازده&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="400" y="960" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
