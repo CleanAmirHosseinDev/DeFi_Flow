@@ -66,11 +66,19 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-15" target="iiNi1Qw4i7DMWbjdPbIf-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="165" />
+              <mxPoint x="30" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-15" target="iiNi1Qw4i7DMWbjdPbIf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-40" y="325" as="targetPoint" />
           </mxGeometry>
@@ -82,10 +90,13 @@
           <mxGeometry x="960" y="300" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;عملکرد کل اقتصاد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="140" width="230" height="50" as="geometry" />
+          <mxGeometry x="-270" y="160" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-21" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تولید ناخالصی داخلی (GDP)&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-270" y="230" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سیاست های پولی و مالی&lt;br&gt;تورم&amp;nbsp; و نرخ بیکاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="300" width="230" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
