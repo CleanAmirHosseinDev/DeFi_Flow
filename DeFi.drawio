@@ -206,6 +206,21 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;br&gt;پول نقد = بالاترین نقدینگی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-130" y="960" width="280" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ابزار های اصلی مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="695" width="220" height="50" as="geometry" />
         </mxCell>
@@ -235,6 +250,15 @@
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-71" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در کسب و کار&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-90" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-78" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سهام&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="890" y="660" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اوراق قرضه&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="892.5" y="730" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;صندوق های سرمایه گذاری&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="695" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
