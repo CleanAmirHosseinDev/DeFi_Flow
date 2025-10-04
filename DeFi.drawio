@@ -98,6 +98,12 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سیاست های پولی و مالی&lt;br&gt;تورم&amp;nbsp; و نرخ بیکاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-270" y="300" width="230" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تصمیمات شرگت ها و خانوار ها&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="960" y="160" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;قیمت گذاری در بازار های مختلف&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="960" y="230" width="230" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
