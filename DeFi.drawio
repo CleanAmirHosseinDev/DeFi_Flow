@@ -22,6 +22,11 @@
             <mxPoint x="460" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻣﻨﺎﺑﻊ ﻣﺤﺪود درﺑﺮاﺑﺮﺧﻮاﺳﺘﻪﻫﺎی ﻧﺎﻣﺤﺪود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="300" width="325" height="50" as="geometry" />
         </mxCell>
@@ -39,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="410" width="325" height="50" as="geometry" />
+          <mxGeometry x="368.75" y="410" width="182.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;عرضه:&lt;/b&gt; میزان کالا یا خدماتی که مصرف کنندگان مایل و یا قادر به خرید آن هستند&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="770" y="410" width="380" height="50" as="geometry" />
@@ -49,6 +54,12 @@
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﺗﻌﺎﻣﻞﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ ﻗﯿﻤﺖﻫﺎ را ﺗﻌﯿﯿﻦ ﻣیکند&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="325" y="510" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Microeconomics&lt;br&gt;اقتصاد خرد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="710" y="300" width="182.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-15" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Macroeconomics&lt;br&gt;اقتصاد کلان&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="182.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
