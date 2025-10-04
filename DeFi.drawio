@@ -195,7 +195,7 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرمایه گذاری پر ریسک = بازده بالاتر&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;سرمایه گذاری کم ریسک = بازده پایین تر&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1070" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;br&gt;پول نقد = بالاترین نقدینگی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-130" y="960" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
