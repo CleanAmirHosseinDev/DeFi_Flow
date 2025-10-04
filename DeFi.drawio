@@ -267,7 +267,7 @@
           <mxGeometry x="-280" y="590" width="440" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-89" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1150" width="380" height="370" as="geometry" />
+          <mxGeometry x="270" y="1150" width="405" height="370" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-90" value="جنبه" style="swimlane;startSize=20;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-89">
           <mxGeometry x="20" width="120" height="370" as="geometry" />
@@ -300,10 +300,19 @@
           <mxGeometry x="30" y="290" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-92" value="مالی" style="swimlane;startSize=20;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-89">
-          <mxGeometry x="260" width="120" height="370" as="geometry" />
+          <mxGeometry x="260" width="145" height="370" as="geometry" />
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-95" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;فردی و شرکتی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-92">
           <mxGeometry x="5" y="50" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-106" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;کوتاه مدت و&lt;br&gt;&amp;nbsp;میان مدت&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-92">
+          <mxGeometry x="15" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;محاسبات مالی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-92">
+          <mxGeometry x="15" y="210" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-108" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تصمیم گیری عملی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="iiNi1Qw4i7DMWbjdPbIf-92">
+          <mxGeometry x="5" y="130" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
