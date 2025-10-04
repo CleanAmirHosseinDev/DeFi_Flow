@@ -175,6 +175,11 @@
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ارزش زمانی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="560" y="960" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iiNi1Qw4i7DMWbjdPbIf-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="985" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-50" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;نقدینگی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="960" width="120" height="50" as="geometry" />
         </mxCell>
@@ -189,6 +194,9 @@
         </mxCell>
         <mxCell id="iiNi1Qw4i7DMWbjdPbIf-57" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرمایه گذاری پر ریسک = بازده بالاتر&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;سرمایه گذاری کم ریسک = بازده پایین تر&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1070" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iiNi1Qw4i7DMWbjdPbIf-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="960" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
