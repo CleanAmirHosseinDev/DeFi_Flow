@@ -535,6 +535,24 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1167" y="2631" />
+              <mxPoint x="1054" y="2631" />
+              <mxPoint x="1054" y="2743" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1135" y="2602" />
+              <mxPoint x="1045" y="2602" />
+              <mxPoint x="1045" y="2793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DAO)&lt;br&gt;سازمان های خودمختار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1103.5" y="2401" width="126" height="50" as="geometry" />
         </mxCell>
@@ -728,14 +746,29 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-133" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;رای گیری با توکن&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2671" width="174" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-134" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Smart Contract&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;باگ&amp;nbsp; در کد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-134" target="sQPnid8IxLI_5b-CWcX0-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-134" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;پیشنهاد و اجرا&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1074" y="2721" width="174" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-135" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Smart Contract&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;باگ&amp;nbsp; در کد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="2771" width="174" height="43" as="geometry" />
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-135" target="sQPnid8IxLI_5b-CWcX0-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-135" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;خزانه مشترک&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="2771" width="174" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-137" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;هر توکن = یک رای&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1296" y="2671" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-139" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;جمعی تصمیم می گیرند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2721" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-140" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;بودجه جمعی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2771" width="114" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.713;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-133">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
