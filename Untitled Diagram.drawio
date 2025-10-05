@@ -433,11 +433,6 @@
             <mxPoint x="632" y="2196" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-111">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443" y="2156" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-111">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="911" y="2116" as="targetPoint" />
@@ -453,6 +448,11 @@
             <mxPoint x="1104" y="2156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="357" y="2156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decentralized Finance&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی غیرمتمرکز&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="671.25" y="2116" width="200" height="80" as="geometry" />
         </mxCell>
@@ -461,6 +461,12 @@
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DEX)&lt;br&gt;مبادلات غیرمتمرکز&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="505" y="2168" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stablecoin&lt;br&gt;ارزهای پایدار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1104" y="2131" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(Derivatives&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;مشتقات&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="2131" width="126" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
