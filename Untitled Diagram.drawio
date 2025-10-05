@@ -457,7 +457,10 @@
           <mxGeometry x="671.25" y="2116" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lending &amp;amp; Borrowing&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;وام ﺩهی وﻗﺮض گیری&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="506" y="2076" width="126" height="50" as="geometry" />
+          <mxGeometry x="505" y="2093" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DEX)&lt;br&gt;مبادلات غیرمتمرکز&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="2168" width="126" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
