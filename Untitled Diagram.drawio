@@ -499,19 +499,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-176">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-178">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="433" y="2461" />
-              <mxPoint x="433" y="3016" />
+              <mxPoint x="447" y="2474" />
+              <mxPoint x="447" y="3075" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-178">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="449" y="2474" />
-              <mxPoint x="449" y="3069" />
+              <mxPoint x="433" y="2461" />
+              <mxPoint x="433" y="3019" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -856,10 +856,10 @@
           <mxGeometry x="-135" y="2938" width="314" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-176" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Order Book&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: سفارش خرید / فروش&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-135" y="2991" width="306" height="50" as="geometry" />
+          <mxGeometry x="-135" y="2994" width="314" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-178" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Perpetuals:فیوچرز بدون انقضا&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2" y="3044" width="169" height="50" as="geometry" />
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-178" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Aggregator&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: بهترین قیمت از چند DEX&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="3050" width="314" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
