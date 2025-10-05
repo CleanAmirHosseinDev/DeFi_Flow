@@ -4,90 +4,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="blaS7t0UfUg1ogSdyitS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-3" target="blaS7t0UfUg1ogSdyitS-7">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-3" target="blaS7t0UfUg1ogSdyitS-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-3" target="blaS7t0UfUg1ogSdyitS-29">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-3" target="blaS7t0UfUg1ogSdyitS-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-3" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اقتصاد&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-3" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اقتصاد&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="190" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-7">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-7">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-7">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻣﻨﺎﺑﻊ ﻣﺤﺪود درﺑﺮاﺑﺮﺧﻮاﺳﺘﻪﻫﺎی ﻧﺎﻣﺤﺪود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻣﻨﺎﺑﻊ ﻣﺤﺪود درﺑﺮاﺑﺮﺧﻮاﺳﺘﻪﻫﺎی ﻧﺎﻣﺤﺪود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="350" width="325" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-11" target="blaS7t0UfUg1ogSdyitS-12">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-11" target="blaS7t0UfUg1ogSdyitS-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="485" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-11" target="blaS7t0UfUg1ogSdyitS-13">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-11" target="blaS7t0UfUg1ogSdyitS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-11">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="688.75" y="460" width="182.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;عرضه:&lt;/b&gt; میزان کالا یا خدماتی که تولید کنندگان مایل و قادر به ارایه آن هستند&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;عرضه:&lt;/b&gt; میزان کالا یا خدماتی که تولید کنندگان مایل و قادر به ارایه آن هستند&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1090" y="460" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;تقاضا:&lt;/b&gt; میزان کالا یا خدماتی که مصرف کنندگان مایل و قادر به خرید آن هستند&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;تقاضا:&lt;/b&gt; میزان کالا یا خدماتی که مصرف کنندگان مایل و قادر به خرید آن هستند&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="100" y="460" width="380" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﺗﻌﺎﻣﻞﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ ﻗﯿﻤﺖﻫﺎ را ﺗﻌﯿﯿﻦ ﻣیکند&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-14" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﺗﻌﺎﻣﻞﻋﺮﺿﻪ و ﺗﻘﺎﺿﺎ ﻗﯿﻤﺖﻫﺎ را ﺗﻌﯿﯿﻦ ﻣیکند&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="645" y="560" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-18">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1280" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-18" target="blaS7t0UfUg1ogSdyitS-28">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-18" target="blaS7t0UfUg1ogSdyitS-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1213" y="305" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-18" target="blaS7t0UfUg1ogSdyitS-27">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-18" target="blaS7t0UfUg1ogSdyitS-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1213" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Microeconomics&lt;br&gt;اقتصاد خرد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-18" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Microeconomics&lt;br&gt;اقتصاد خرد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1030" y="350" width="182.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-22" target="blaS7t0UfUg1ogSdyitS-24">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-22" target="blaS7t0UfUg1ogSdyitS-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="235" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-22" target="blaS7t0UfUg1ogSdyitS-25">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-22" target="blaS7t0UfUg1ogSdyitS-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="375" as="targetPoint" />
             <Array as="points">
@@ -95,235 +95,235 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-22">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Macroeconomics&lt;br&gt;اقتصاد کلان&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Macroeconomics&lt;br&gt;اقتصاد کلان&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="350" y="350" width="182.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;رفتار مصرف کنندگان و تولید کنندگان&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-23" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;رفتار مصرف کنندگان و تولید کنندگان&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1280" y="350" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;عملکرد کل اقتصاد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-24" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;عملکرد کل اقتصاد&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="210" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تولید ناخالصی داخلی (GDP)&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تولید ناخالصی داخلی (GDP)&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="280" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سیاست های پولی و مالی&lt;br&gt;تورم&amp;nbsp; و نرخ بیکاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-26" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سیاست های پولی و مالی&lt;br&gt;تورم&amp;nbsp; و نرخ بیکاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="50" y="350" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تصمیمات شرگت ها و خانوار ها&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تصمیمات شرگت ها و خانوار ها&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1280" y="210" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;قیمت گذاری در بازار های مختلف&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;قیمت گذاری در بازار های مختلف&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1280" y="280" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اﻗﺘﺼﺎد زﻧﺪگی روزﻣﺮه ﻫﻤﻪ ﻣﺎرا ﺗﺤﺖ ﺗﺄﺛﯿﺮﻗﺮارﻣیدﻫﺪ. درک اﺻﻮل اﻗﺘﺼﺎدی ﺑﻪ ما کمک ﻣیکند ﺗﺎ ﺗﺼﻤﯿﻤﺎت&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﺑﻬﺘﺮی بگیریم ،چه درﺳﻄﺢ ﻓﺮد و چه درﺳﻄﺢ ﺟﺎﻣﻌﻪ. ازاﻧﺘﺨﺎب ﺷﻐﻞ گرفته ﺗﺎ ﺳﯿﺎﺳﺖ گذاری ﻫﺎی دوﻟﺘی، ﻫﻤﻪ&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;.ﺟﻨﺒﻪﻫﺎی زﻧﺪگی ﺑﺎ اﺻﻮل اﻗﺘﺼﺎدی پیوند ﺧﻮرده اﺳﺖ&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-29" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اﻗﺘﺼﺎد زﻧﺪگی روزﻣﺮه ﻫﻤﻪ ﻣﺎرا ﺗﺤﺖ ﺗﺄﺛﯿﺮﻗﺮارﻣیدﻫﺪ. درک اﺻﻮل اﻗﺘﺼﺎدی ﺑﻪ ما کمک ﻣیکند ﺗﺎ ﺗﺼﻤﯿﻤﺎت&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﺑﻬﺘﺮی بگیریم ،چه درﺳﻄﺢ ﻓﺮد و چه درﺳﻄﺢ ﺟﺎﻣﻌﻪ. ازاﻧﺘﺨﺎب ﺷﻐﻞ گرفته ﺗﺎ ﺳﯿﺎﺳﺖ گذاری ﻫﺎی دوﻟﺘی، ﻫﻤﻪ&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;.ﺟﻨﺒﻪﻫﺎی زﻧﺪگی ﺑﺎ اﺻﻮل اﻗﺘﺼﺎدی پیوند ﺧﻮرده اﺳﺖ&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="40" width="680" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-33">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-33">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="960" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-33" target="blaS7t0UfUg1ogSdyitS-58">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-33" target="blaS7t0UfUg1ogSdyitS-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Finance)&lt;br&gt;مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Finance)&lt;br&gt;مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="730" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-39">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000" y="905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-39" target="blaS7t0UfUg1ogSdyitS-41">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" target="blaS7t0UfUg1ogSdyitS-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-39">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-39">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-39">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="940" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مدیریت پول و سرمایه گفته میشود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مدیریت پول و سرمایه گفته میشود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="620" y="880" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پول را از کجا بیاوریم (تامین مالی)&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-40" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پول را از کجا بیاوریم (تامین مالی)&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1000" y="880" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پول را کجا خرج کنیم (سرمایه گذاری)&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پول را کجا خرج کنیم (سرمایه گذاری)&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="330" y="880" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-43">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1080" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ارزش زمانی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-43" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ارزش زمانی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="880" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-45">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;نقدینگی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;نقدینگی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="560" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-47" target="blaS7t0UfUg1ogSdyitS-49">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-47" target="blaS7t0UfUg1ogSdyitS-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ریسک و بازده&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ریسک و بازده&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="720" y="1010" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پولی که امروز داریم بیشتر از فردا ارزش داره&lt;br&gt;تورم و فرصت سرمایه گذاری&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-48" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;پولی که امروز داریم بیشتر از فردا ارزش داره&lt;br&gt;تورم و فرصت سرمایه گذاری&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1080" y="1010" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرمایه گذاری پر ریسک = بازده بالاتر&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;سرمایه گذاری کم ریسک = بازده پایین تر&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرمایه گذاری پر ریسک = بازده بالاتر&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;سرمایه گذاری کم ریسک = بازده پایین تر&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="640" y="1120" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;br&gt;پول نقد = بالاترین نقدینگی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سرعت تبدیل دارایی به پول نقد&lt;br&gt;پول نقد = بالاترین نقدینگی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="1010" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-54">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1210" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-54">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1210" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-54">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1360" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ابزار های اصلی مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-54" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ابزار های اصلی مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="960" y="745" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-58">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="795" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-58">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-58">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-58" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="745" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;کاربرد های عملی مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-58" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;کاربرد های عملی مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="380" y="745" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در زندگی شخصی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در زندگی شخصی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="710" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در سطح ملی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در سطح ملی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="745" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در کسب و کار&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در کسب و کار&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="230" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سهام&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-62" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;سهام&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1210" y="710" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اوراق قرضه&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-63" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اوراق قرضه&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1212.5" y="780" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;صندوق های سرمایه گذاری&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;صندوق های سرمایه گذاری&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1360" y="745" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;مالی = کاربرد عملی اقتصاد&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-65" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;مالی = کاربرد عملی اقتصاد&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="640" width="1480" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;اقتصاد = تئوری و اصولی&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;اقتصاد = تئوری و اصولی&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1080" y="640" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;مالی = اجرای این اصول در دنیای واقعی&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-67" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;مالی = اجرای این اصول در دنیای واقعی&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="640" width="440" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-68" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-68" value="" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=0;horizontal=0;horizontalStack=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="1200" width="394" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-69" value="جنبه" style="swimlane;startSize=20;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-68">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-69" value="جنبه" style="swimlane;startSize=20;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-68" vertex="1">
           <mxGeometry width="120" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;دید&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-69">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-70" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;دید&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-69" vertex="1">
           <mxGeometry x="32.5" y="55" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;هدف&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-69">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-71" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;هدف&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-69" vertex="1">
           <mxGeometry x="37" y="107" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ابزار&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-69">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-72" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ابزار&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-69" vertex="1">
           <mxGeometry x="37" y="178" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-73" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;زمان&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-69">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-73" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;زمان&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-69" vertex="1">
           <mxGeometry x="35" y="246" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;متغییرها&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-69">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-74" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;متغییرها&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-69" vertex="1">
           <mxGeometry x="29" y="313" width="67" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-75" value="Economics" style="swimlane;startSize=20;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-68">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-75" value="Economics" style="swimlane;startSize=20;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-68" vertex="1">
           <mxGeometry x="120" width="129" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;کلان و جامعه&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-75">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;کلان و جامعه&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-75" vertex="1">
           <mxGeometry x="10" y="55" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;توضیح پدیده ها&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-75">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-77" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;توضیح پدیده ها&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-75" vertex="1">
           <mxGeometry y="111" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-78" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;مدل های نظری&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-75">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-78" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;مدل های نظری&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-75" vertex="1">
           <mxGeometry x="5" y="178" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;بلند مدت&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-75">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-79" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;بلند مدت&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-75" vertex="1">
           <mxGeometry x="23" y="246" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تورم بیکاری GDP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-75">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-80" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تورم بیکاری GDP&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-75" vertex="1">
           <mxGeometry x="-4" y="313" width="137" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-81" value="Finance" style="swimlane;startSize=20;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-68">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-81" value="Finance" style="swimlane;startSize=20;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-68" vertex="1">
           <mxGeometry x="249" width="145" height="371" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;فردی و شرکتی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-81">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;فردی و شرکتی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-81" vertex="1">
           <mxGeometry x="15" y="50" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;کوتاه مدت و&lt;br&gt;&amp;nbsp;میان مدت&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-81">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-83" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;کوتاه مدت و&lt;br&gt;&amp;nbsp;میان مدت&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-81" vertex="1">
           <mxGeometry x="13" y="235" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;محاسبات مالی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-81">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;محاسبات مالی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-81" vertex="1">
           <mxGeometry x="15" y="176" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تصمیم گیری عملی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-81">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-85" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تصمیم گیری عملی&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-81" vertex="1">
           <mxGeometry x="5" y="107" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-86" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;سود ریسک بازده&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="blaS7t0UfUg1ogSdyitS-81">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-86" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;سود ریسک بازده&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" parent="blaS7t0UfUg1ogSdyitS-81" vertex="1">
           <mxGeometry x="7" y="314" width="122" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-87" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="blaS7t0UfUg1ogSdyitS-89">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-87" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="blaS7t0UfUg1ogSdyitS-89" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="774" y="1570" as="sourcePoint" />
             <Array as="points">
@@ -332,7 +332,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-88" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" target="blaS7t0UfUg1ogSdyitS-90">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-88" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="blaS7t0UfUg1ogSdyitS-90" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="774" y="1570" as="sourcePoint" />
             <Array as="points">
@@ -341,89 +341,89 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی میگوید چطور ازین دانش استفاده کنیم&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-89" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی میگوید چطور ازین دانش استفاده کنیم&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="1610" width="174" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;اقتصاد به ما میگوید چه اتفاقی میوفتد و چرا&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;اقتصاد به ما میگوید چه اتفاقی میوفتد و چرا&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="812" y="1610" width="172" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-92" target="blaS7t0UfUg1ogSdyitS-96">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-92" target="blaS7t0UfUg1ogSdyitS-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1245" y="1831" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1175" y="1718" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-96">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1169" y="1974" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-96">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1321" y="1976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-96">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-96" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1245" y="2001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-96" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ﻋﻠﻢ ﻣﻄﺎﻟﻌﻪ ﺭﻓﺘﺎﺭﺟﺎﻣﻌﻪ ﺩﺭاﺳﺘﻔﺎﺩه اﺯﻣﻨﺎﺑﻊ ﻣﺤﺪوﺩ&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-96" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ﻋﻠﻢ ﻣﻄﺎﻟﻌﻪ ﺭﻓﺘﺎﺭﺟﺎﻣﻌﻪ ﺩﺭاﺳﺘﻔﺎﺩه اﺯﻣﻨﺎﺑﻊ ﻣﺤﺪوﺩ&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1092.25" y="1873" width="305.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;چرا قیمت ها بالا میرود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-97" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;چرا قیمت ها بالا میرود&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1052" y="1975" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;چگونه بازار ها عمل میکنند&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-98" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;چگونه بازار ها عمل میکنند&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1184" y="2003" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-99" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تاثیر&amp;nbsp; سیاست های دولت چیست&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-99" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;تاثیر&amp;nbsp; سیاست های دولت چیست&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1315" y="1978" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-101" target="blaS7t0UfUg1ogSdyitS-105">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-101" target="blaS7t0UfUg1ogSdyitS-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="1835" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finance&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finance&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="234" y="1722" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-105">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="228" y="1978" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-105">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="blaS7t0UfUg1ogSdyitS-105">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-105" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="304" y="2005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻋﻠﻢ ﻣﺪﯾﺮﯾﺖ پول و سرمایه گذاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;ﻋﻠﻢ ﻣﺪﯾﺮﯾﺖ پول و سرمایه گذاری&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="151.25" y="1877" width="305.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;ریسک را چطور مدیریت کنیم&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;ریسک را چطور مدیریت کنیم&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="111" y="1979" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-107" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;پول را کجا سرمایه گذاری کنیم&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-107" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;پول را کجا سرمایه گذاری کنیم&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="243" y="2007" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-108" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;چطور وام بگیریم&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-108" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;چطور وام بگیریم&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="374" y="1982" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;بهترین انتخاب سرمایه گذاری را پیدا میکند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-109" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;بهترین انتخاب سرمایه گذاری را پیدا میکند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="151.25" y="1660" width="305.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-110" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در شرایط کلی بازار را تحلیل میکند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-110" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;در شرایط کلی بازار را تحلیل میکند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1086.5" y="1660" width="305.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Finance)&lt;br&gt;مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decentralized Finance&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی غیرمتمرکز&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="671.25" y="2116" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
