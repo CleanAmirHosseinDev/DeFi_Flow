@@ -532,6 +532,9 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Asset Management&lt;br&gt;مدیریت دارایی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="2438" width="126" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DAO)&lt;br&gt;سازمان های خودمختار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1103.5" y="2401" width="126" height="50" as="geometry" />
         </mxCell>
@@ -697,6 +700,9 @@
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-114" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Perpetuals:فیوچرز بدون انقضا&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="175.5" y="2704" width="169" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-121" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;مثال های معروف&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="2405" width="146" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
