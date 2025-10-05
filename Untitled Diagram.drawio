@@ -529,6 +529,16 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Insurance&lt;br&gt;بیمه&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="2361" width="126" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1004" y="2840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="972" y="2936" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Asset Management&lt;br&gt;مدیریت دارایی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="2438" width="126" height="50" as="geometry" />
         </mxCell>
@@ -769,6 +779,9 @@
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.713;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-133">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-153" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Yield Farming: کشاورزی ﺑﺎزده&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="979.5" y="2843" width="203.5" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
