@@ -801,7 +801,7 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-163">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-160" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;استراتژی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
