@@ -466,6 +466,25 @@
         <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decentralized Finance&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی غیرمتمرکز&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="669.5" y="2384" width="200" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-8" target="sQPnid8IxLI_5b-CWcX0-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-8" target="sQPnid8IxLI_5b-CWcX0-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="566" y="2321" />
+              <mxPoint x="347" y="2321" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-8" target="sQPnid8IxLI_5b-CWcX0-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="535" y="2345" />
+              <mxPoint x="217" y="2345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lending &amp;amp; Borrowing&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;وام ﺩهی وﻗﺮض گیری&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="503.25" y="2361" width="126" height="50" as="geometry" />
         </mxCell>
