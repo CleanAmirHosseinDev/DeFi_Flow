@@ -928,7 +928,7 @@
         <mxCell id="T0G57GCGQZfUy-tho2Vs-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T0G57GCGQZfUy-tho2Vs-255" target="T0G57GCGQZfUy-tho2Vs-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-255" value="Fiat-backed&lt;b&gt;&lt;br&gt;فیات کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-255" value="&lt;b&gt;Fiat-backed&lt;br&gt;فیات کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="324" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="wQc941vkxD2qsvdakc0u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-257" target="wQc941vkxD2qsvdakc0u-7">
@@ -942,7 +942,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-257" value="Commodity-backed&lt;br&gt;کالایی&amp;nbsp;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-257" value="&lt;b&gt;Commodity-backed&lt;br&gt;کالایی&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="663" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-259" value="&lt;b&gt;مداخله ای&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -953,7 +953,7 @@
             <mxPoint x="236" y="5560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-268" value="&lt;b&gt;قابلیت بازخرید ندارد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-268" value="&lt;b&gt;قابلیت بازخرید ندارد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="170.5" y="5458" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="T0G57GCGQZfUy-tho2Vs-272" target="T0G57GCGQZfUy-tho2Vs-281" edge="1">
@@ -971,7 +971,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-272" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;قابلیت بازخرید دارد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-272" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;قابلیت بازخرید دارد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="484" y="5458" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T0G57GCGQZfUy-tho2Vs-280" edge="1">
@@ -1022,7 +1022,7 @@
         <mxCell id="wQc941vkxD2qsvdakc0u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-296" target="wQc941vkxD2qsvdakc0u-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-296" value="Crypto-collateralized&lt;b&gt;&lt;br&gt;کریپتو کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-296" value="&lt;b&gt;Crypto-collateralized&lt;br&gt;کریپتو کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="863.75" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="T0G57GCGQZfUy-tho2Vs-301" target="T0G57GCGQZfUy-tho2Vs-303" edge="1">
@@ -1108,16 +1108,16 @@
         <mxCell id="wQc941vkxD2qsvdakc0u-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;&quot; data-end=&quot;746&quot; data-start=&quot;734&quot;&gt;پشتوانه:&lt;/span&gt; ۱:۱ دلار آمریکا&lt;br&gt;&lt;/font&gt;Paxos + Binance&amp;nbsp;&lt;font style=&quot;&quot;&gt;:صادرکننده&lt;br&gt;&lt;/font&gt;&amp;nbsp;&lt;font style=&quot;&quot;&gt;قابلیت بازخرید:&lt;/font&gt;موسسات می‌توانند مستقیم بازخرید کنند، کاربران عادی از طریق صرافی نقد می‌شوند&amp;nbsp;&lt;br&gt;&lt;span style=&quot;&quot; data-end=&quot;1145&quot; data-start=&quot;1132&quot;&gt;ویژگی‌ها:&lt;/span&gt; شفافیت حسابرسی شده، یکی از محبوب‌ترین استیبل کوین‌ها برای معاملات&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;align=right;" vertex="1" parent="1">
           <mxGeometry x="712" y="5909.88" width="410" height="107" as="geometry" />
         </mxCell>
-        <mxCell id="wQc941vkxD2qsvdakc0u-7" value="PAXG (پشتوانه طلا)" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wQc941vkxD2qsvdakc0u-7" value="&lt;b&gt;PAXG (پشتوانه طلا)&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="wQc941vkxD2qsvdakc0u-9" value="هر توکن قابل بازخرید با &lt;strong data-end=&quot;659&quot; data-start=&quot;633&quot;&gt;یک اونس یا بخشی از طلا&lt;/strong&gt; هست" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="wQc941vkxD2qsvdakc0u-9" value="&lt;b&gt;هر توکن قابل بازخرید با &lt;span data-end=&quot;659&quot; data-start=&quot;633&quot;&gt;یک اونس یا بخشی از طلا&lt;/span&gt; هست&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="627" y="5458" width="131" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="wQc941vkxD2qsvdakc0u-11" value="DAI پشتوانه (ETH یا USDC)" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="wQc941vkxD2qsvdakc0u-11" value="&lt;b&gt;DAI پشتوانه (ETH یا USDC)&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="777.5" y="5458" width="131" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="wQc941vkxD2qsvdakc0u-13" value="&lt;br&gt;می‌تونیم توکن دای برگردونیم و &lt;strong data-end=&quot;861&quot; data-start=&quot;823&quot;&gt;وثیقه‌ (ETH یا USDC) رو پس بگیری&lt;/strong&gt;.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="wQc941vkxD2qsvdakc0u-13" value="&lt;b&gt;&lt;br&gt;می‌تونیم توکن دای برگردونیم و &lt;span style=&quot;&quot; data-end=&quot;861&quot; data-start=&quot;823&quot;&gt;وثیقه‌ (ETH یا USDC) رو پس بگیری&lt;/span&gt;.&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="921.25" y="5458" width="131" height="64" as="geometry" />
         </mxCell>
       </root>
