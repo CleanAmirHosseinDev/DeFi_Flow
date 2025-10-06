@@ -896,10 +896,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-244" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;با پشتوانه&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="875" y="4729" width="69" height="37" as="geometry" />
+          <mxGeometry x="825" y="4729" width="119" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-246" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;بدون پشتوانه&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="946" y="4729" width="69" height="37" as="geometry" />
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-246" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;(Algorithmic Stablecoins)&lt;b style=&quot;&quot;&gt;&lt;br&gt;بدون پشتوانه&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="946" y="4729" width="121" height="59" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-251" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;یه چیزی برابر یک دلار هست یعنی یک دلار حداقل می ارزه اعتماد بر این باشد که یک دلار هست در کمترین حالت&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="630" y="5203" width="314" height="73" as="geometry" />
