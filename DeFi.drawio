@@ -1001,8 +1001,16 @@
         <mxCell id="T0G57GCGQZfUy-tho2Vs-296" value="Crypto-collateralized&lt;b&gt;&lt;br&gt;کریپتو کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="863.75" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-301">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="5661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-301" value="&lt;b&gt;&amp;nbsp;USDT یا USDCمثل&amp;nbsp; پشتوانه‌شون&amp;nbsp;&lt;span data-end=&quot;315&quot; data-start=&quot;301&quot;&gt;دلار بانکی&lt;/span&gt;&amp;nbsp;هست&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="5499" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-303" value="&lt;b&gt;کاربر می‌تونه (حداقل در تئوری)&amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;br&gt;1&amp;nbsp;USDT&amp;nbsp;&lt;br&gt;&amp;nbsp;رو بده و &lt;span style=&quot;&quot; data-end=&quot;388&quot; data-start=&quot;372&quot;&gt;۱ دلار واقعی&lt;/span&gt; برداشت کنه&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295.75" y="5664" width="188.5" height="86" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
