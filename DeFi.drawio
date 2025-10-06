@@ -521,6 +521,16 @@
         <mxCell id="T0G57GCGQZfUy-tho2Vs-129" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DEX)&lt;br&gt;مبادلات غیرمتمرکز&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="678.25" y="4444" width="126" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="913" y="4724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-249" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="976" y="4727" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-130" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stablecoin&lt;br&gt;ارزهای پایدار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="881.5" y="4553" width="126" height="50" as="geometry" />
         </mxCell>
@@ -879,6 +889,12 @@
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-238" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;معامله فوری و بدون ثبت نام انجام میشه&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="647.75" y="4651" width="187" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-244" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;با پشتوانه&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="4729" width="69" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-246" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;بدون پشتوانه&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="946" y="4729" width="69" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
