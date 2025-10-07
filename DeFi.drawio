@@ -1411,6 +1411,9 @@
         <mxCell id="Lyl44gbyNzvpYYiO1zni-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-98" target="Lyl44gbyNzvpYYiO1zni-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-98" target="Lyl44gbyNzvpYYiO1zni-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-98" value="ﻣﻌﻤﺎﺭی ﻓﻨیﻭﻗﺮﺍﺭﺩﺍﺩﻫﺎی ﻫﻮﺷﻤﻨﺪ" style="swimlane;startSize=29;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1077" y="6327" width="330" height="268" as="geometry" />
         </mxCell>
@@ -1442,7 +1445,10 @@
           <mxGeometry x="1260" y="6728" width="450" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-112" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="765" y="6728" width="450" height="42" as="geometry" />
+          <mxGeometry x="769.5" y="6728" width="450" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-115" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.به صورت الگوریتمی و از طریق قراردادهای هوشمند صادر می شود&lt;br&gt;.کاملا قابل ممیزی و ضفاف روی بلاکچین اتریوم است&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1017.25" y="6860" width="450" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
