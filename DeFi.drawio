@@ -1425,7 +1425,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lyl44gbyNzvpYYiO1zni-98" value="ﻣﻌﻤﺎﺭی ﻓﻨیﻭﻗﺮﺍﺭﺩﺍﺩﻫﺎی ﻫﻮﺷﻤﻨﺪ" style="swimlane;startSize=29;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-98" value="ﻣﻌﻤﺎﺭی  فنی ﻭ ﻗﺮﺍﺭﺩﺍﺩﻫﺎی ﻫﻮﺷﻤﻨﺪ" style="swimlane;startSize=29;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1077" y="6327" width="330" height="268" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-99" value="&lt;b&gt;معماری فنی&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
