@@ -1654,11 +1654,12 @@
         <mxCell id="Lyl44gbyNzvpYYiO1zni-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-175" target="Lyl44gbyNzvpYYiO1zni-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-871" y="6867" />
-              <mxPoint x="-871" y="6906" />
-              <mxPoint x="-921" y="6906" />
+              <mxPoint x="-921" y="6867" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-175" target="Lyl44gbyNzvpYYiO1zni-194">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-175" value="&lt;div&gt;&lt;b&gt;Feeds ( ﺧﻮﺭﺍکﻫﺎ ): &lt;br&gt;ﻧﻮﺩﻫﺎی ﻣﺴﺘﻘﻞ که ﻗﻴﻤﺖﻫﺎ ﺭﺍ گزارش ﻣیﺩﻫﻨﺪ ( 14-26 feed)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-818" y="6817" width="254" height="50" as="geometry" />
@@ -1692,6 +1693,12 @@
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-192" value="Medianizer" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="-964" y="6998.5" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-194" value="&lt;div&gt;&lt;b&gt;قیمت را با تاخیر 1 ساعت منتشر می کند&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1091" y="6945" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-196" value="OSM" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1076" y="6998.5" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
