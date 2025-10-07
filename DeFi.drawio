@@ -1458,6 +1458,25 @@
             <mxPoint x="1407" y="6455" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-119" value="Soft-Peg" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="6453" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-120" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="Lyl44gbyNzvpYYiO1zni-119" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1552" y="6495" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-121" value="1 DAI ~ 1 USD" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1631" y="6407" width="125" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-122" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="Lyl44gbyNzvpYYiO1zni-121" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1607" y="6453" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-125" value="&lt;b&gt;به صورت نرم به دلار آمریکا پگ شده است&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="6441" width="182" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
