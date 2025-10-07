@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="lkNEurXLp17pHCvCl8bj">
-    <mxGraphModel dx="2065" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="777" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
         <mxCell id="blaS7t0UfUg1ogSdyitS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-3" target="blaS7t0UfUg1ogSdyitS-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-3" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اقتصاد&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-3" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;اقتصاد&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="190" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="blaS7t0UfUg1ogSdyitS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-7" edge="1">
@@ -137,7 +137,7 @@
         <mxCell id="blaS7t0UfUg1ogSdyitS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-33" target="blaS7t0UfUg1ogSdyitS-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Finance)&lt;br&gt;مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;(Finance)&lt;br&gt;مالی&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="680" y="730" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="blaS7t0UfUg1ogSdyitS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-39" edge="1">
@@ -352,7 +352,7 @@
             <mxPoint x="1375" y="1784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-92" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1305" y="1671" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="blaS7t0UfUg1ogSdyitS-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-96" edge="1">
@@ -387,7 +387,7 @@
             <mxPoint x="209" y="1791.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finance&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-101" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finance&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="139" y="1678.5" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="blaS7t0UfUg1ogSdyitS-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="blaS7t0UfUg1ogSdyitS-105" edge="1">
@@ -463,7 +463,7 @@
             <mxPoint x="769.5" y="2261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decentralized Finance&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی غیرمتمرکز&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="blaS7t0UfUg1ogSdyitS-111" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;(&lt;/b&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Decentralized Finance&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;مالی غیرمتمرکز&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="669.5" y="2384" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-8" target="sQPnid8IxLI_5b-CWcX0-42">
@@ -488,14 +488,41 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lending &amp;amp; Borrowing&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;وام ﺩهی وﻗﺮض گیری&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-8" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lending &amp;amp; Borrowing&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;وام ﺩهی وﻗﺮض گیری&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="503.25" y="2361" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DEX)&lt;br&gt;مبادلات غیرمتمرکز&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-174">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="419" y="2449" />
+              <mxPoint x="419" y="2963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-178">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="447" y="2474" />
+              <mxPoint x="447" y="3075" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-176">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="2461" />
+              <mxPoint x="433" y="3019" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-9" target="sQPnid8IxLI_5b-CWcX0-183">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DEX)&lt;br&gt;مبادلات غیرمتمرکز&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="503.25" y="2436" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stablecoin&lt;br&gt;ارزهای پایدار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="708.25" y="2549" width="126" height="50" as="geometry" />
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stablecoin&lt;br&gt;ارزهای پایدار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="706.5" y="2545" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-12" target="sQPnid8IxLI_5b-CWcX0-105">
           <mxGeometry relative="1" as="geometry" />
@@ -509,7 +536,7 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-12" target="sQPnid8IxLI_5b-CWcX0-114">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(Derivatives&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;مشتقات&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(Derivatives&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;)&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;مشتقات&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="284" y="2399" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-13" target="sQPnid8IxLI_5b-CWcX0-43">
@@ -526,20 +553,25 @@
         <mxCell id="sQPnid8IxLI_5b-CWcX0-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-13" target="sQPnid8IxLI_5b-CWcX0-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Insurance&lt;br&gt;بیمه&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Insurance&lt;br&gt;بیمه&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="2361" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="972" y="2936" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-168">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="909" y="2682" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Asset Management&lt;br&gt;مدیریت دارایی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Asset Management&lt;br&gt;مدیریت دارایی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="909.25" y="2438" width="126" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-17" target="sQPnid8IxLI_5b-CWcX0-121">
@@ -563,10 +595,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DAO)&lt;br&gt;سازمان های خودمختار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(DAO)&lt;br&gt;سازمان های خودمختار&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1103.5" y="2401" width="126" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;بدون بانک بروکر یا واسط کار میکند&amp;nbsp;&lt;br&gt;روی بلاکچین بیشتر اتریوم اجرا میشود&lt;br&gt;با قرارداد های هوشمند اتوماتیک است&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;.بدون بانک بروکر یا واسط کار میکند&amp;nbsp;&lt;br&gt;.روی بلاکچین بیشتر اتریوم اجرا میشود&lt;br&gt;.با قرارداد های هوشمند اتوماتیک است&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="654.25" y="2188" width="234" height="69" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-23" target="sQPnid8IxLI_5b-CWcX0-27">
@@ -578,7 +610,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Economics&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="624" y="1781" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;اقتصاد باز و شفاف&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -592,7 +624,7 @@
             <mxPoint x="858" y="1918" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-32" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Finance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-32" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;Finance&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="1779" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;کاهش قدرت نهادهای مالی متمرکز&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -781,40 +813,72 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-153" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Yield Farming: کشاورزی ﺑﺎزده&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="979.5" y="2843" width="203.5" height="43" as="geometry" />
+          <mxGeometry x="1045.5" y="2849" width="230.5" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-154" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Portfolio Management&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: مدیریت خودکار&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="856.38" y="2939" width="231.75" height="43" as="geometry" />
+          <mxGeometry x="1045.1200000000001" y="2901" width="231.75" height="43" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-156" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Index Funds&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: صندوق شاخص&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="761" y="2843" width="203.5" height="43" as="geometry" />
+          <mxGeometry x="1044.5" y="2953" width="232.5" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.885;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-156">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.12;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-14" target="sQPnid8IxLI_5b-CWcX0-153">
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-161">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-162">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-161">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sQPnid8IxLI_5b-CWcX0-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-163">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-160" target="sQPnid8IxLI_5b-CWcX0-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="998" y="3075" />
+              <mxPoint x="998" y="3108" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-160" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;استراتژی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="844" y="2684" width="81" height="37" as="geometry" />
+          <mxGeometry x="869.5" y="3047" width="81" height="37" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-161" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Rebalancing&lt;br&gt;تنظیم مجدد سبد&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2744" width="131" height="37" as="geometry" />
+          <mxGeometry x="1044.5" y="3047" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-162" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Risk Management&lt;br&gt;مدیریت ریسک&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2786" width="131" height="37" as="geometry" />
+          <mxGeometry x="1043" y="3089" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="sQPnid8IxLI_5b-CWcX0-163" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Auto-compounding&lt;br&gt;سود مضاعف خودکار&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="2702" width="131" height="37" as="geometry" />
+          <mxGeometry x="1044.5" y="3005" width="131" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-168" target="sQPnid8IxLI_5b-CWcX0-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-168" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;پلتفرم های معروف&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="2498" width="97" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-171" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Yearn Finance&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;Balancer&lt;/b&gt;&lt;br&gt;&lt;b&gt;Harvest Finance&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="2534" width="97" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-174" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;AMM (Automated Market Maker): قیمت خودکار&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="2938" width="314" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-176" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Order Book&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: سفارش خرید / فروش&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="2994" width="314" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-178" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Aggregator&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;: بهترین قیمت از چند DEX&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="3050" width="314" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-183" target="sQPnid8IxLI_5b-CWcX0-185">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-183" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;اتر رو میخوایم تبدیل کنیم به USDC&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="472.75" y="2505" width="187" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sQPnid8IxLI_5b-CWcX0-185" target="sQPnid8IxLI_5b-CWcX0-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-185" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Uniswap بهترین قیمت رو پیدا میکند&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="472.75" y="2574" width="187" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sQPnid8IxLI_5b-CWcX0-187" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;معامله فوری و بدون ثبت نام انجام میشه&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="472.75" y="2643" width="187" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
