@@ -1635,20 +1635,26 @@
         <mxCell id="Lyl44gbyNzvpYYiO1zni-170" value="&amp;nbsp;پیش بینی قیمت&amp;nbsp;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
           <mxGeometry x="-303.5" y="6682.5" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Lyl44gbyNzvpYYiO1zni-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-178">
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-178">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-172" value="&lt;b&gt;چون قراردادهای هوشمند نمیتوانند مستقیما به داده های خارج از زنجیره دسترسی داشته باشندقیمت های بازار را به بلاکچین منتقل میکند&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-576" y="6681.32" width="148.32" height="88.18" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-175" value="&lt;div&gt;&lt;b&gt;Feeds ( ﺧﻮﺭﺍکﻫﺎ ): &lt;br&gt;ﻧﻮﺩﻫﺎی ﻣﺴﺘﻘﻞ که ﻗﻴﻤﺖﻫﺎ ﺭﺍ گزارش ﻣیﺩﻫﻨﺪ ( 14-26 feed)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-796" y="6817" width="254" height="50" as="geometry" />
+          <mxGeometry x="-823" y="6817" width="254" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.862;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-175">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-178" value="&lt;b&gt;Medianizer:&lt;br&gt;&amp;nbsp;ﻗﺮﺍﺭﺩﺍﺩ ﻫﻮﺷﻤﻨﺪ که ﻣﻴﺎﻧﻪ ﻗﻴﻤﺖ ﻫﺎ ﺭﺍ ﻣﺤﺎﺳﺒﻪ میکند&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-628.84" y="6875" width="254" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-180" value="&lt;b&gt;OSM (Oracle Security Module):&lt;br&gt;&amp;nbsp;ﺗﺄﺧﻴﺮ 1 ﺳﺎﻋﺘﻪ ﺑﺮﺍیﺍﻣﻨﻴﺖ ﺑﻴﺸﺘﺮ&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-441.5" y="6817" width="254" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.182;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-180">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
