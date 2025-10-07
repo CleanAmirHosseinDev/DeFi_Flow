@@ -1580,6 +1580,52 @@
             <mxPoint x="246.65999999999954" y="6920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-157" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="Lyl44gbyNzvpYYiO1zni-159" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172" y="6969" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-158" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="Lyl44gbyNzvpYYiO1zni-160" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172" y="6969" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-159" target="Lyl44gbyNzvpYYiO1zni-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="102.18181818181802" y="7114.90909090909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-159" value="&lt;b&gt;اگر دای بزرگ تر از 1دلار&amp;nbsp;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="42" y="7009" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-160" target="Lyl44gbyNzvpYYiO1zni-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-160" value="&lt;b&gt;اگر دای کوچک تر از 1دلار&amp;nbsp;&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="182" y="7009" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-165" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="22.181818181818016" y="7193.090909090909" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-162" value="&lt;b&gt;تشویق به ایجاد جدید&amp;nbsp;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="-30.18" y="7113" width="142.18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-166" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-163">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303.99999999999955" y="7185.818181818181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-163" value="&lt;b&gt;تشویق به بازخرید و نابودی&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};treeFolding=1;treeMoving=1;" vertex="1" parent="1">
+          <mxGeometry x="232.82" y="7109" width="142.18" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-167" value="&lt;b&gt;کاهش عرضه&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="7178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-168" value="&lt;b&gt;افزایش تقاضا&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="7170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
