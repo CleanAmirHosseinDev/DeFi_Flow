@@ -1376,8 +1376,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lyl44gbyNzvpYYiO1zni-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-85" target="Lyl44gbyNzvpYYiO1zni-93">
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-85" target="Lyl44gbyNzvpYYiO1zni-93">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-85" target="Lyl44gbyNzvpYYiO1zni-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="469" y="6256" />
+              <mxPoint x="469" y="6566" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-85" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ﺩﺭﺳﺎﻝ 2014 توﺳﻂ ﺭﻭﻧﻪ کرﻳﺴﺘﻨﺴﻦ، ﻳک کاﺭﺁﻓﺮﻳﻦ ﻭ ﺗﻮﺳﻌﻪﺩﻫﻨﺪﻩ ﺩﺍﻧﻤﺎﺭکی،ﺑﻨﻴﺎﻥگذار&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;کرﻳﺴﺘﻨﺴﻦ که ﺳﺎﺑﻘﻪ ﻣﻄﺎﻟﻌﻪ ﺩﺭ رﺷﺘﻪ ﺑﻴﻮﺷﻴمی ﺩﺍﺷﺖ، پس ﺍﺯﺁﺷﻨﺎیی ﺑﻴﺖکوین ﻭﺍﺗﺮﻳﻮﻡ، ﺑﻪ ﺍﻳﻦﻧﺘﻴﺠﻪ رسید ﻧﻴﺎﺯﺑﻪ ﻳک ارز دیجیتال با فیات قیمتی وجود دارد&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="502.5" y="6213.5" width="410" height="84.5" as="geometry" />
@@ -1393,6 +1401,9 @@
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-93" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="6491" width="450" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-95" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="6545" width="450" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
