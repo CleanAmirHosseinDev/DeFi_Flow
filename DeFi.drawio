@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="NjW3wsk71gxxFsyz9WI4">
-    <mxGraphModel dx="3850" dy="-1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3901" dy="-964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -916,6 +916,9 @@
         <mxCell id="T0G57GCGQZfUy-tho2Vs-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-252" target="T0G57GCGQZfUy-tho2Vs-259" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-252" target="Lyl44gbyNzvpYYiO1zni-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-252" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;فیات کارنسی باشند (Legal Tender)&lt;br&gt;دعوایی به وجود میاد رو مثلا ببری دادگاه ازش استفاده کنی از حق خودت دفاع کنی و این که پشتوانه ارزشی ندارد ولیویی پشتش نیست&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="946" y="5203" width="314" height="109" as="geometry" />
         </mxCell>
@@ -928,7 +931,7 @@
         <mxCell id="T0G57GCGQZfUy-tho2Vs-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-255" target="T0G57GCGQZfUy-tho2Vs-272" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-255" value="&lt;b&gt;Fiat-backed&lt;br&gt;فیات کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-255" value="&lt;b&gt;Fiat-backed&lt;br&gt;فیات کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="324" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="wQc941vkxD2qsvdakc0u-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=none;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-257" target="wQc941vkxD2qsvdakc0u-7" edge="1">
@@ -942,10 +945,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-257" value="&lt;b&gt;Commodity-backed&lt;br&gt;کالایی&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-257" value="&lt;b&gt;Commodity-backed&lt;br&gt;کالایی&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="663" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-259" value="&lt;b&gt;مداخله ای&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T0G57GCGQZfUy-tho2Vs-259" target="Lyl44gbyNzvpYYiO1zni-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-259" value="&lt;b&gt;مداخله ای&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1052.25" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-268" target="T0G57GCGQZfUy-tho2Vs-280" edge="1">
@@ -956,7 +962,7 @@
         <mxCell id="wQc941vkxD2qsvdakc0u-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-268" target="wQc941vkxD2qsvdakc0u-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-268" value="&lt;b&gt;قابلیت بازخرید ندارد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-268" value="&lt;b&gt;قابلیت بازخرید ندارد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="170.5" y="5458" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-272" target="T0G57GCGQZfUy-tho2Vs-281" edge="1">
@@ -974,7 +980,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-272" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;قابلیت بازخرید دارد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-272" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;قابلیت بازخرید دارد&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="484" y="5458" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-294" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-280" edge="1">
@@ -1028,7 +1034,7 @@
         <mxCell id="wQc941vkxD2qsvdakc0u-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-296" target="wQc941vkxD2qsvdakc0u-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0G57GCGQZfUy-tho2Vs-296" value="&lt;b&gt;Crypto-collateralized&lt;br&gt;کریپتو کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="T0G57GCGQZfUy-tho2Vs-296" value="&lt;b&gt;Crypto-collateralized&lt;br&gt;کریپتو کارنسی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="863.75" y="5367" width="131" height="37" as="geometry" />
         </mxCell>
         <mxCell id="T0G57GCGQZfUy-tho2Vs-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="T0G57GCGQZfUy-tho2Vs-301" target="T0G57GCGQZfUy-tho2Vs-303" edge="1">
@@ -1124,6 +1130,15 @@
         </mxCell>
         <mxCell id="wQc941vkxD2qsvdakc0u-9" value="&lt;b&gt;هر توکن قابل بازخرید با &lt;span data-end=&quot;659&quot; data-start=&quot;633&quot;&gt;یک اونس یا بخشی از طلا&lt;/span&gt; هست&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="627" y="5458" width="131" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wQc941vkxD2qsvdakc0u-11" target="Lyl44gbyNzvpYYiO1zni-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="843" y="5543" />
+              <mxPoint x="991" y="5543" />
+              <mxPoint x="991" y="5755" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="wQc941vkxD2qsvdakc0u-11" value="&lt;b&gt;DAI پشتوانه (ETH یا USDC)&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="777.5" y="5458" width="131" height="64" as="geometry" />
@@ -1293,6 +1308,33 @@
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;نظارت بیشتر بر ذخایر&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1869" y="6306" width="94" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1063.25" y="5458" width="131" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="5458" width="131" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-62" target="Lyl44gbyNzvpYYiO1zni-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-62" value="&lt;b&gt;مداخله ای&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1221" y="5367" width="131" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-66" target="Lyl44gbyNzvpYYiO1zni-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;با میکردائو که دای رو ایشو کرد شروع شد آنها پشتوانه رو گذاشتن&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="907.13" y="5830" width="331.75" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-72" target="Lyl44gbyNzvpYYiO1zni-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-72" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ایده میکردائو&lt;/font&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="5836.5" width="95" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-74" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;اگر اتریوم رو بذاریم قیمتش خیلی تغییر میکنه پس میایم&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="837" y="6083" width="285" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
