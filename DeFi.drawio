@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="NjW3wsk71gxxFsyz9WI4">
-    <mxGraphModel dx="3296" dy="-1294" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3584" dy="-1137" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1342,7 +1342,7 @@
         <mxCell id="Lyl44gbyNzvpYYiO1zni-74" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;اگر اتریوم رو بذاریم قیمتش خیلی تغییر میکنه پس میایم&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="837" y="6083" width="285" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="Lyl44gbyNzvpYYiO1zni-78" value="&lt;b&gt;Over Colateralization&lt;/b&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-78" value="&lt;b&gt;Over-collateralized&lt;/b&gt;" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="927" y="6200.5" width="105" height="94" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-81" value="وثیقه بیش از اندازه" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
@@ -1404,6 +1404,45 @@
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-95" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="6545" width="450" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-98" target="Lyl44gbyNzvpYYiO1zni-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-98" target="Lyl44gbyNzvpYYiO1zni-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-98" value="ﻣﻌﻤﺎﺭی ﻓﻨیﻭﻗﺮﺍﺭﺩﺍﺩﻫﺎی ﻫﻮﺷﻤﻨﺪ" style="swimlane;startSize=29;horizontal=1;childLayout=treeLayout;horizontalTree=0;sortEdges=1;resizable=0;containerType=tree;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1077" y="6327" width="330" height="268" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-99" value="&lt;b&gt;معماری فنی&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry x="115" y="49" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-100" value="&lt;b&gt;Vault (CDP - Collateralized Debt Position)&lt;/b&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry x="20" y="139" width="119" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-101" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="Lyl44gbyNzvpYYiO1zni-98" source="Lyl44gbyNzvpYYiO1zni-99" target="Lyl44gbyNzvpYYiO1zni-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-102" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;DAI&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry x="179" y="139" width="131" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-103" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;" edge="1" parent="Lyl44gbyNzvpYYiO1zni-98" source="Lyl44gbyNzvpYYiO1zni-99" target="Lyl44gbyNzvpYYiO1zni-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-105" value="قراردادهای هوشمند اصلی" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry x="35" y="209" width="80" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-106" value="غیرمتمرکز" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry x="204.5" y="209" width="80" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.505;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-78" target="Lyl44gbyNzvpYYiO1zni-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-109" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;(Over-collateralized) توسط وثیقه های رمزنگاری شده بیش از حد پشتیبانی میشود&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="6728" width="450" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-112" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="765" y="6728" width="450" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
