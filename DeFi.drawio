@@ -1641,8 +1641,27 @@
         <mxCell id="Lyl44gbyNzvpYYiO1zni-172" value="&lt;b&gt;چون قراردادهای هوشمند نمیتوانند مستقیما به داده های خارج از زنجیره دسترسی داشته باشندقیمت های بازار را به بلاکچین منتقل میکند&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-576" y="6681.32" width="148.32" height="88.18" as="geometry" />
         </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-691.3043478260865" y="6942.260869565218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-185" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-175">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-817.391304347826" y="6939.652173913044" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-175" target="Lyl44gbyNzvpYYiO1zni-190">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-871" y="6867" />
+              <mxPoint x="-871" y="6906" />
+              <mxPoint x="-921" y="6906" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-175" value="&lt;div&gt;&lt;b&gt;Feeds ( ﺧﻮﺭﺍکﻫﺎ ): &lt;br&gt;ﻧﻮﺩﻫﺎی ﻣﺴﺘﻘﻞ که ﻗﻴﻤﺖﻫﺎ ﺭﺍ گزارش ﻣیﺩﻫﻨﺪ ( 14-26 feed)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-823" y="6817" width="254" height="50" as="geometry" />
+          <mxGeometry x="-818" y="6817" width="254" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.862;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-175">
           <mxGeometry relative="1" as="geometry" />
@@ -1655,6 +1674,24 @@
         </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.182;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-172" target="Lyl44gbyNzvpYYiO1zni-180">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-184" value="&lt;div&gt;&lt;b&gt;قیمت را از چندین صرافی دریافت می کند&lt;/b&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-746" y="6945" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-186" value="&lt;div&gt;&lt;b&gt;قیمت ها را امضا و ارسال میکند&amp;nbsp;&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-861" y="6945" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-187" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%D9%BE%DB%8C%D8%B4%20%D8%A8%DB%8C%D9%86%DB%8C%20%D9%82%DB%8C%D9%85%D8%AA%26amp%3Bnbsp%3B%22%20style%3D%22text%3Balign%3Dcenter%3BfontStyle%3D1%3BverticalAlign%3Dmiddle%3BspacingLeft%3D3%3BspacingRight%3D3%3BstrokeColor%3Dnone%3Brotatable%3D0%3Bpoints%3D%5B%5B0%2C0.5%5D%2C%5B1%2C0.5%5D%5D%3BportConstraint%3Deastwest%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-303.5%22%20y%3D%226682.5%22%20width%3D%2280%22%20height%3D%2226%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;b style=&quot;text-wrap-mode: wrap;&quot;&gt;Feeds&lt;/b&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-846" y="7001" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-188" value="&lt;b style=&quot;text-wrap-mode: wrap;&quot;&gt;Feed&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;text-wrap-mode: wrap;&quot;&gt;هر&lt;/b&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-731" y="6998.5" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-190" value="&lt;div&gt;&lt;b&gt;میانه را محاسبه می کند&amp;nbsp;&lt;br&gt;مقاوم در برابر دستکاری&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-976" y="6945" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyl44gbyNzvpYYiO1zni-192" value="Medianizer" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-964" y="6998.5" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
