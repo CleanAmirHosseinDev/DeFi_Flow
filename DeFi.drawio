@@ -1934,7 +1934,7 @@
           <mxGeometry x="1023.5" y="5540" width="141" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-559" value="&lt;b&gt;یه سری صف هایی دارن که حالت مزایده داره وقتی قیمت میره &lt;br&gt;توکن میدن به اون صفوف&lt;br&gt;&lt;br&gt;وقتی میاد پایین توکن ازون صفوف برمیدارن&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="5653" width="138" height="99" as="geometry" />
+          <mxGeometry x="1025" y="5626" width="138" height="140" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-565" value="&lt;div&gt;&lt;b&gt;پول توی شبکه بیشتر بشه و باعث میشه قیمت بیوفته و باعث میشه قیمت بیاد پایین تر و عرضه رو کمتر بکنه دوباره قیمت میاد بالاتر&amp;nbsp; تا برسه به یک دلار تثبیت قیمت با مداخله بر عرضه&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1179" y="5626" width="299" height="139" as="geometry" />
