@@ -1924,13 +1924,13 @@
         <mxCell id="5F8QeOERCImu1SC6Fxys-567" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-556" target="5F8QeOERCImu1SC6Fxys-565">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-556" value="دخالت در عرضه بر حسب قیمت" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="5F8QeOERCImu1SC6Fxys-556" value="&lt;b&gt;ثبیت قیمت با مداخله بر عرضه&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1427" y="5536" width="141" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-560" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-558" target="5F8QeOERCImu1SC6Fxys-559">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-558" value="تثبیت قیمت با حراج سکه" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="5F8QeOERCImu1SC6Fxys-558" value="&lt;b&gt;تثبیت قیمت با حراج سکه&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1023.5" y="5540" width="141" height="27" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-559" value="&lt;b&gt;یه سری صف هایی دارن که حالت مزایده داره وقتی قیمت میره &lt;br&gt;توکن میدن به اون صفوف&lt;br&gt;&lt;br&gt;وقتی میاد پایین توکن ازون صفوف برمیدارن&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
