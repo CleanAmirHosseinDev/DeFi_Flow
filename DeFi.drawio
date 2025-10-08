@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="NjW3wsk71gxxFsyz9WI4">
-    <mxGraphModel dx="3148" dy="-1464" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2951" dy="-1556" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1827,16 +1827,43 @@
           <mxGeometry x="-1153" y="7257.5" width="140" height="55" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-518" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;ﻭﺿﻌﻴﺖ ﺍﻭﻟﻴﻪ Vault&lt;/b&gt;&lt;/span&gt;&lt;b&gt;:&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;ﻭﺛﻴﻘﻪ :10 ETH × 2000$ = 20,000$&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;بدهی :10,000 DAI&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ﻧﺴﺒﺖ :200 %&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Liquidation Ratio: 150%&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;قیمتش به 1400$ می رسد&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ETH&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;ارزش جدید وثیقه : 14،000 = 1400 * 10&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;نسبت جدید : 150 &amp;gt; %140 = 10،000 / 14،000&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ناسالم شدن و انحلال آغاز می شود Vault&lt;br&gt;&lt;br&gt;ﻓﺮﺁﻳﻨﺪ ﺣﺮﺍﺝ :&amp;nbsp;&lt;/b&gt;&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;بدهی + Penalty: 10,000 + (10,000 * 0.13) = 11,300 DAI&lt;br&gt;&amp;nbsp;ا&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;10 ا&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;تریوم وثیقه شده به حراج گذاشته میشود&lt;br&gt;11,300&amp;nbsp; شرکت می کند&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Keeper&amp;nbsp;&lt;br&gt;&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Keeper&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;وثیقه منتقل میشود به&amp;nbsp;&lt;br&gt;11,300 DAI نابود میشود (بدهی پرداخت شد)&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1438" y="7399" width="694" height="263" as="geometry" />
+          <mxGeometry x="-1032" y="7436" width="301" height="263" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-523" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-521" target="5F8QeOERCImu1SC6Fxys-522">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-521" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;سرمایه احتیاطی&lt;br&gt;Maker Buffer&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1715" y="7257.5" width="140" height="55" as="geometry" />
+          <mxGeometry x="-1377" y="7257.5" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-525" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-522" target="5F8QeOERCImu1SC6Fxys-524">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-522" value="&lt;b&gt;ﺻﻨﺪﻭﻕ ﺫﺧﻴﺮﻩ پروتکل ﺑﺮﺍی ﺟﺬﺏ ﺿﺮﺭﻫﺎ ﻭ ﺣﻔﻆ ﺛﺒﺎﺕ ﺳﻴﺴﺘﻢ&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1773.5" y="7368" width="257" height="31" as="geometry" />
+          <mxGeometry x="-1617" y="7436" width="257" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-527" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1311.5" y="7578" as="sourcePoint" />
+            <mxPoint x="-1493" y="7610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-524" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;منابع تامین&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1377" y="7523" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-529" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-526" target="5F8QeOERCImu1SC6Fxys-528">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-526" value="&lt;b&gt;کارمزد وام ها&lt;br&gt;Stability Fees&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1616" y="7610" width="256" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-531" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-528" target="5F8QeOERCImu1SC6Fxys-530">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-528" value="&lt;b&gt;Liquidation Penalties&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1617" y="7666" width="257" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-530" value="&lt;b&gt;سود حاصل از (دارایی های دنیای واقعی)&lt;br&gt;RWA&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-1617" y="7722" width="257" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
