@@ -1545,6 +1545,14 @@
             <mxPoint x="167.6363636363635" y="6825.818181818181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-535" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-146" target="5F8QeOERCImu1SC6Fxys-533">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-40" y="6679" />
+              <mxPoint x="-40" y="7320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-146" value="&lt;b&gt;وقتی میخوایم یک دلار ازین سیستم بکشیم بیون باید معادل یک و نیم دلار اتریوم بذاریم تو سیستم ازین سمت سیستن بیرون باید معادل یعنی نسبت وثیقه گذاری به ازای هر یک دای باید معادل باید معادل 1/5 اتریوم بیش از حد.&lt;br&gt;اگر استیبل کوین ما یک دای یعنی یک دلار اون رو بذاریم توی اسمارت کانترکت تا ما یک دای بگیریم بقیش چی ؟&lt;br&gt;&lt;br&gt;&amp;nbsp;CDP میگن موقعیت معاملاتی&amp;nbsp;&lt;br&gt;Collateralized Dept Position&lt;br&gt;یک موقعیت گیرمون میاد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="6588.5" width="275" height="181" as="geometry" />
         </mxCell>
@@ -1867,6 +1875,9 @@
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-532" value="ادامه دارد ...&lt;br&gt;4 of 26" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-1615" y="7777" width="767" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-533" value="&lt;b&gt;فرض بر این که فردا قیمت اتریوم دو برابر بشه ما معادل 1/5 دلار اتریوم گذاشته بودیم امروز معادل 3 دلار اتریوم توی این اسمارت کانترکت هست اون دایی که گرفته بودیم رو که رد کردیم رفته الان یک دلار گیرمون اومده یعنی برای این موقعیت ما نیم دلار ذخیره کرده بودیم اگر دای رد کرده&amp;nbsp; باشیم الان توی اسمارت کانترکت 3 دلار ذخیره اس که دای 1 دلار هست 2 دلارش میمونه درواقع ارزش اون موقعیت هست. روز اول نیم دلار گذاشته بودیم الان شده 2 دلار داریم یعنی 4 برابر شده در صورتی که قیمت اتریوم 2 برابر شده انگار موقعیت معاملاتی روی اتریوم داریم که اهرمی هست درجه اهرم متغییر هست که اتریوم ارزی هست که میره بالا قیمتش میریم موقعیتشو میخریم این اتفاق میوفته خیلی نیاز براش زیاد هست روی اتریوم مثبت هستیم و پس یک اهرم میزنیم روی اتریومی که داریم&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="29" y="7229" width="275" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
