@@ -1906,15 +1906,25 @@
             <mxPoint x="30" y="7714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-546" value="ادامه دارد ...&lt;br&gt;4 of 26" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="5F8QeOERCImu1SC6Fxys-546" value="ادامه دارد ...&lt;br&gt;Maker DAO&lt;br&gt;P-9/10" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-263" y="7849" width="767" height="94" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-548" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="-1344" y="7841" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-549" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="5F8QeOERCImu1SC6Fxys-548" parent="1">
+        <mxCell id="5F8QeOERCImu1SC6Fxys-549" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-717" y="7754" as="targetPoint" />
+            <mxPoint x="-848.06" y="7757" as="targetPoint" />
+            <mxPoint x="-1275.06" y="7849" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-550" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="18" y="7925" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-552" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="7757" as="targetPoint" />
+            <mxPoint x="-117" y="7849" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
