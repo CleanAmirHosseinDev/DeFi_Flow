@@ -1773,8 +1773,32 @@
         <mxCell id="5F8QeOERCImu1SC6Fxys-494" value="&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;b&gt;ناسالم&amp;nbsp;&lt;/b&gt;&lt;b&gt;Vault &lt;/b&gt;&lt;b&gt;شناسایی&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="-610" y="7349" width="132" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-496" value="(ﺍﺭﺯﺵ ﻭﺛﻴﻘﻪ / بدهی&amp;nbsp; DAI) &amp;lt; Liquidation Ratio" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-792" y="7430" width="495" height="50" as="geometry" />
+        <mxCell id="5F8QeOERCImu1SC6Fxys-499" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-496" target="5F8QeOERCImu1SC6Fxys-498">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-496" value="&lt;b&gt;(ﺍﺭﺯﺵ ﻭﺛﻴﻘﻪ / بدهی&amp;nbsp; DAI) &amp;lt; Liquidation Ratio&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-686.5" y="7436" width="285" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-501" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-498" target="5F8QeOERCImu1SC6Fxys-500">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-498" value="&lt;b&gt;شروع حراج&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="7523" width="132" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-503" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-500" target="5F8QeOERCImu1SC6Fxys-502">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-500" value="&lt;b&gt;وثیقه به حراج گذاشته می شود&lt;br&gt;(رباط های خودکار)شرکت می کنند Keepers&amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-686.5" y="7610" width="285" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-505" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5F8QeOERCImu1SC6Fxys-502" target="5F8QeOERCImu1SC6Fxys-504">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-502" value="&lt;b&gt;فروش وثیقه&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="7697" width="132" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-504" value="&lt;b&gt;بالاترین پیشنهاد دهنده وثیقه را میخرد&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b&gt;پرداخت میشود (&lt;/b&gt;&lt;b&gt;DAI&amp;nbsp;&lt;/b&gt;&lt;b&gt;بدهی&amp;nbsp;&lt;/b&gt;&lt;b&gt;&amp;nbsp;+ Penalty)&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-686.5" y="7784" width="285" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
