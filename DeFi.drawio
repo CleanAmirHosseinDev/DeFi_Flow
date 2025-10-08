@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="NjW3wsk71gxxFsyz9WI4">
-    <mxGraphModel dx="3665" dy="-1223" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2925" dy="-1568" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1553,6 +1553,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-542" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lyl44gbyNzvpYYiO1zni-146" target="5F8QeOERCImu1SC6Fxys-541">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-72" y="6634" />
+              <mxPoint x="-72" y="7624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lyl44gbyNzvpYYiO1zni-146" value="&lt;b&gt;وقتی میخوایم یک دلار ازین سیستم بکشیم بیون باید معادل یک و نیم دلار اتریوم بذاریم تو سیستم ازین سمت سیستن بیرون باید معادل یعنی نسبت وثیقه گذاری به ازای هر یک دای باید معادل باید معادل 1/5 اتریوم بیش از حد.&lt;br&gt;اگر استیبل کوین ما یک دای یعنی یک دلار اون رو بذاریم توی اسمارت کانترکت تا ما یک دای بگیریم بقیش چی ؟&lt;br&gt;&lt;br&gt;&amp;nbsp;CDP میگن موقعیت معاملاتی&amp;nbsp;&lt;br&gt;Collateralized Dept Position&lt;br&gt;یک موقعیت گیرمون میاد&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="6588.5" width="275" height="181" as="geometry" />
         </mxCell>
@@ -1877,14 +1885,25 @@
           <mxGeometry x="-1615" y="7777" width="767" height="94" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-533" value="&lt;b&gt;فرض بر این که فردا قیمت اتریوم دو برابر بشه ما معادل 1/5 دلار اتریوم گذاشته بودیم امروز معادل 3 دلار اتریوم توی این اسمارت کانترکت هست اون دایی که گرفته بودیم رو که رد کردیم رفته الان یک دلار گیرمون اومده یعنی برای این موقعیت ما نیم دلار ذخیره کرده بودیم اگر دای رد کرده&amp;nbsp; باشیم الان توی اسمارت کانترکت 3 دلار ذخیره اس که دای 1 دلار هست 2 دلارش میمونه درواقع ارزش اون موقعیت هست. روز اول نیم دلار گذاشته بودیم الان شده 2 دلار داریم یعنی 4 برابر شده در صورتی که قیمت اتریوم 2 برابر شده انگار موقعیت معاملاتی روی اتریوم داریم که اهرمی هست درجه اهرم متغییر هست که اتریوم ارزی هست که میره بالا قیمتش میریم موقعیتشو میخریم این اتفاق میوفته خیلی نیاز براش زیاد هست روی اتریوم مثبت هستیم و پس یک اهرم میزنیم روی اتریومی که داریم&amp;nbsp;&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="29" y="7229" width="275" height="181" as="geometry" />
+          <mxGeometry x="29" y="7229" width="281" height="181" as="geometry" />
         </mxCell>
-        <mxCell id="5F8QeOERCImu1SC6Fxys-539" value="&lt;b&gt;اگر اتریوم افزایش بیابد&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+        <mxCell id="5F8QeOERCImu1SC6Fxys-539" value="&lt;b&gt;اگر اتریوم افزایشی شود&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
           <mxGeometry x="49" y="7451" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="5F8QeOERCImu1SC6Fxys-540" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="5F8QeOERCImu1SC6Fxys-539" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="29" y="7411" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-541" value="&lt;b&gt;اگر اتریوم&amp;nbsp; دو سوم بریزه یعنی اون قیمت معادل یک و نیم دلاری که گذاشتیم میشه یک دلار الان اون موقعیت که داشتیم بی ارزش هست و صفر هست. اگر یکم دیگر بخواد بیاد پایین تر اون دای دیگه پشتوانه اش زیره دلار هست و ارزش پایداریش می افته. این باعث میشه که کسایی که این پروژه رو ران کردن اومدن مینیموم اون وثیقه بیش از اندازه ای که باید بذاریم رو&amp;nbsp; 1/5 هست یعنی یک و نیم برابر اگر ذره ای اومد پایین تر از 1/5 هرکسی اگر این موثعیت رو دید میتونه بیاد یک فانگشنی رو توی اسمارت کانترکت صدا بزنه که اصطلاحا موقعیت شناور میشه میتونه موقعیت رو بخره با یک تخفیف پول کمتر داده میشه که حواسشون اول روز که میاد 1/5 رو نذاری بیشتر بذاری چون؟ اگر اومد زیره 1/5 ما یک مقدار پول رو از دست میدیم همه حواسشون باشه که اتریوم اگر اومد پایین با اتریوم تزریق کنند یا حداقل بدونن موقعیت معاملاتیشون در خطر هست مارجین تریدینگ داریم&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="7511" width="283" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-544" value="&lt;b&gt;اگر اتریوم کاهشی شود&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="50" y="7754" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5F8QeOERCImu1SC6Fxys-545" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" target="5F8QeOERCImu1SC6Fxys-544" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30" y="7714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
