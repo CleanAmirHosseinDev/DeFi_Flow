@@ -2083,7 +2083,7 @@
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-620" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-602" target="L1yXBT4uyiYTKa3pEJVf-619">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-602" value="&lt;b&gt;Centralized&lt;br&gt;بازارهای سنتی&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-602" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Centralized Finance&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;مالی متمرکز&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1477.5" y="10400" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-609" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-606" target="L1yXBT4uyiYTKa3pEJVf-608">
