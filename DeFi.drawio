@@ -1939,21 +1939,6 @@
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-536" value="&lt;div&gt;&lt;b&gt;پول توی شبکه بیشتر بشه و باعث میشه قیمت بیوفته و باعث میشه قیمت بیاد پایین تر و عرضه رو کمتر بکنه دوباره قیمت میاد بالاتر&amp;nbsp; تا برسه به یک دلار تثبیت قیمت با مداخله بر عرضه&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="3090" y="11627" width="299" height="139" as="geometry" />
         </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-546" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-538" target="L1yXBT4uyiYTKa3pEJVf-541">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-547" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-538" target="L1yXBT4uyiYTKa3pEJVf-544">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-548" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-538" target="L1yXBT4uyiYTKa3pEJVf-540">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-552" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-538" target="L1yXBT4uyiYTKa3pEJVf-550">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-554" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-538" target="L1yXBT4uyiYTKa3pEJVf-553">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-538" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;MM&lt;br&gt;در بازارهای مالی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1489" y="9944.5" width="127" height="66.5" as="geometry" />
         </mxCell>
@@ -1987,14 +1972,35 @@
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-566" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-564" target="L1yXBT4uyiYTKa3pEJVf-538">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-568" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-564" target="L1yXBT4uyiYTKa3pEJVf-550">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-564" value="&lt;b&gt;Market Maker&lt;br&gt;بازار ساز&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1457" y="9879" width="96" height="33" as="geometry" />
         </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-567" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-565" target="L1yXBT4uyiYTKa3pEJVf-538">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-570" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-565" target="L1yXBT4uyiYTKa3pEJVf-569">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-565" value="&lt;b&gt;Market Taker&lt;br&gt;بازارگیر&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1556" y="9879" width="96" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-569" value="&lt;b&gt;سفارشات موجود در دفتر سفارشات را اجرا می کند&lt;br&gt;(Order Book)&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="10011" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-571" value="&lt;b&gt;نقئینگی را از بازار میگیرد&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="10066" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-572" value="&lt;b&gt;قیمت های اعلام شده از بازارساز&amp;nbsp;&lt;br&gt;را می پذیرد&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="10119" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-573" value="&lt;b&gt;معمولا کارمزد بیشتری پرداخت میکند&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="10172" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-574" value="&lt;b&gt;به دنبال اجرای سریع معامله است&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1675" y="10225" width="139" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
