@@ -1987,14 +1987,14 @@
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-562" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-560" target="L1yXBT4uyiYTKa3pEJVf-538">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-560" value="&lt;b&gt;Market Maker&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1552" y="9883" width="96" height="30" as="geometry" />
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-560" value="&lt;b&gt;Market Maker&lt;br&gt;بازار ساز&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1552" y="9880" width="96" height="33" as="geometry" />
         </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-563" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-561" target="L1yXBT4uyiYTKa3pEJVf-538">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-561" value="&lt;b&gt;Market Taker&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1448" y="9883" width="96" height="30" as="geometry" />
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-561" value="&lt;b&gt;Market Taker&lt;br&gt;بازارگیر&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1448" y="9880" width="96" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
