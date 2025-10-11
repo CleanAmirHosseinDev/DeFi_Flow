@@ -2038,7 +2038,7 @@
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-594" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-588" target="L1yXBT4uyiYTKa3pEJVf-593">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L1yXBT4uyiYTKa3pEJVf-588" value="&lt;b&gt;اولین بورس رسمی جهان توسط شرکت هند شرقی هلند تاسیس شد (VOC)&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-588" value="&lt;b&gt;بازارسازانی که با موجودی شخصی معامله می کردند&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="915" y="10197.5" width="139" height="49" as="geometry" />
         </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-589" value="&lt;b&gt;Brokers&lt;br&gt;بازارگیر&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -2049,6 +2049,21 @@
         </mxCell>
         <mxCell id="L1yXBT4uyiYTKa3pEJVf-593" value="&lt;b&gt;بورس لندن&lt;br&gt;قرن 18&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="936.5" y="10274" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-595" value="&lt;b&gt;NYSE بورس نیویورک (1792)&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="10408" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-597" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-596" target="L1yXBT4uyiYTKa3pEJVf-595">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-601" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L1yXBT4uyiYTKa3pEJVf-596" target="L1yXBT4uyiYTKa3pEJVf-600">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-596" value="&lt;b&gt;مسئول نگهداری بازار برای سهام خاصی بود&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="913.5" y="10330" width="139" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="L1yXBT4uyiYTKa3pEJVf-600" value="&lt;b&gt;Specialists&lt;br&gt;بازارساز&lt;/b&gt;" style="html=1;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="751" y="10338" width="96" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
