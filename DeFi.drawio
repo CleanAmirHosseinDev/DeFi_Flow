@@ -2211,8 +2211,26 @@
         <mxCell id="3u3cCtdTfGU9zsH9du92-638" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Merger Arbitrage&lt;br&gt;ادغام&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1464" y="17242" width="106" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-646" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3u3cCtdTfGU9zsH9du92-643" target="3u3cCtdTfGU9zsH9du92-645">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-649" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3u3cCtdTfGU9zsH9du92-643" target="3u3cCtdTfGU9zsH9du92-648">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-650" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3u3cCtdTfGU9zsH9du92-643" target="3u3cCtdTfGU9zsH9du92-647">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3u3cCtdTfGU9zsH9du92-643" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;تکنولوژی ها&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="16893" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-645" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Algorithmic Trading&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="17048" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-647" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;هوش مصنوعی&lt;br&gt;ﻭ یادگیری ﻣﺎﺷﻴﻦ&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="734" y="17048" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3u3cCtdTfGU9zsH9du92-648" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;High-Frequency Trading - HFT&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487" y="17048" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
