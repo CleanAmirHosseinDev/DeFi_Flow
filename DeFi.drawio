@@ -1370,14 +1370,6 @@
         <mxCell id="3u3cCtdTfGU9zsH9du92-379" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="3u3cCtdTfGU9zsH9du92-381" target="3u3cCtdTfGU9zsH9du92-385" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3u3cCtdTfGU9zsH9du92-380" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="3u3cCtdTfGU9zsH9du92-381" target="3u3cCtdTfGU9zsH9du92-386" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2420" y="18258" />
-              <mxPoint x="2420" y="18568" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3u3cCtdTfGU9zsH9du92-381" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ﺩﺭﺳﺎﻝ 2014 توﺳﻂ ﺭﻭﻧﻪ کرﻳﺴﺘﻨﺴﻦ، ﻳک کاﺭﺁﻓﺮﻳﻦ ﻭ ﺗﻮﺳﻌﻪﺩﻫﻨﺪﻩ ﺩﺍﻧﻤﺎﺭکی،ﺑﻨﻴﺎﻥگذار&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;کرﻳﺴﺘﻨﺴﻦ که ﺳﺎﺑﻘﻪ ﻣﻄﺎﻟﻌﻪ ﺩﺭ رﺷﺘﻪ ﺑﻴﻮﺷﻴمی ﺩﺍﺷﺖ، پس ﺍﺯﺁﺷﻨﺎیی ﺑﻴﺖکوین ﻭﺍﺗﺮﻳﻮﻡ، ﺑﻪ ﺍﻳﻦﻧﺘﻴﺠﻪ رسید ﻧﻴﺎﺯﺑﻪ ﻳک ارز دیجیتال با فیات قیمتی وجود دارد&lt;/b&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2453.5" y="18215.5" width="410" height="84.5" as="geometry" />
         </mxCell>
@@ -1392,9 +1384,6 @@
         </mxCell>
         <mxCell id="3u3cCtdTfGU9zsH9du92-385" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="2541" y="18493" width="450" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="3u3cCtdTfGU9zsH9du92-386" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;.سانسورپذیری: امکان مسدودسازی دارایی ها توسط نهادهای نظارتی&lt;/b&gt;&lt;/span&gt;" style="html=1;whiteSpace=wrap;align=right;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2541" y="18547" width="450" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3u3cCtdTfGU9zsH9du92-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="3u3cCtdTfGU9zsH9du92-391" target="3u3cCtdTfGU9zsH9du92-400" edge="1">
           <mxGeometry relative="1" as="geometry" />
