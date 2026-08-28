@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" pages="5">
   <diagram name="Page-1" id="NjW3wsk71gxxFsyz9WI4">
     <mxGraphModel dx="16650" dy="-5430" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -3389,6 +3389,221 @@
         </mxCell>
         <mxCell id="G5TDDhdVwxuweMOdfzDz-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;شروع &lt;br&gt;PSM Opration&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="80" width="193" x="1138" y="17582" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tIt7YjxkBWBmv69K6w8b" name="Page-4">
+    <mxGraphModel dx="1178" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=center;" value="&lt;b&gt;کالای فیزیکی&lt;/b&gt;&lt;br&gt;(طلا، گندم، نفت، مس، ...)" vertex="1">
+          <mxGeometry height="60" width="160" x="750" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-19" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="TaDh-FNcMzErmyh2uBWB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-20" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-19" style="edgeLabel;html=1;align=center;fontSize=10;" value="تحویل به انبار" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="5" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;align=center;" value="&lt;b&gt;انبار پذیرفته‌شده&lt;/b&gt;&lt;br&gt;(تأییدشده توسط بورس کالا)" vertex="1">
+          <mxGeometry height="60" width="160" x="750" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-22" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-23" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-22" style="edgeLabel;html=1;align=center;fontSize=10;" value="صدور سند" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="-5" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=center;" value="&lt;b&gt;گواهی سپرده&lt;/b&gt;&lt;br&gt;(سند رسمی مالکیت)" vertex="1">
+          <mxGeometry height="60" width="160" x="750" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-25" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-26" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-25" style="edgeLabel;html=1;align=center;fontSize=10;fontColor=#9673a6;" value="مسیر ۱" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="-30" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=center;" value="&lt;b&gt;بازار نقدی&lt;/b&gt;&lt;br&gt;(فروش فوری گواهی)" vertex="1">
+          <mxGeometry height="50" width="140" x="460" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-28" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-29" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-28" style="edgeLabel;html=1;align=center;fontSize=10;fontColor=#9673a6;" value="مسیر ۲" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=center;" value="&lt;b&gt;وثیقه&lt;/b&gt;&lt;br&gt;(دریافت تسهیلات بانکی)" vertex="1">
+          <mxGeometry height="50" width="140" x="760" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-31" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-32" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-31" style="edgeLabel;html=1;align=center;fontSize=10;fontColor=#9673a6;" value="مسیر ۳" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="30" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12;align=center;" value="&lt;b&gt;تحویل&lt;/b&gt;&lt;br&gt;(دریافت کالای فیزیکی)" vertex="1">
+          <mxGeometry height="50" width="140" x="1040" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-34" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-35" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-34" style="edgeLabel;html=1;align=center;fontSize=10;" value="توسعه ابزار" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;align=center;" value="&lt;b&gt;قرارداد آتی&lt;/b&gt;&lt;br&gt;(خرید/فروش در تاریخ معین)" vertex="1">
+          <mxGeometry height="50" width="140" x="460" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-37" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-38" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-37" style="edgeLabel;html=1;align=center;fontSize=10;" value="حق خرید/فروش" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;align=center;" value="&lt;b&gt;اختیار معامله&lt;/b&gt;&lt;br&gt;(حق نه تعهد)" vertex="1">
+          <mxGeometry height="50" width="140" x="460" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-40" edge="1" parent="1" source="TaDh-FNcMzErmyh2uBWB-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TaDh-FNcMzErmyh2uBWB-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-41" connectable="0" parent="TaDh-FNcMzErmyh2uBWB-40" style="edgeLabel;html=1;align=center;fontSize=10;" value="سرمایه‌گذاری غیرمستقیم" vertex="1">
+          <mxGeometry relative="1" x="-0.2" y="1" as="geometry">
+            <mxPoint x="-40" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=12;align=center;" value="&lt;b&gt;صندوق کالایی&lt;/b&gt;&lt;br&gt;(خرید واحد صندوق)" vertex="1">
+          <mxGeometry height="50" width="140" x="460" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;" value="&lt;b&gt;نکته مهم:&lt;/b&gt;&lt;br&gt;گواهی سپرده، قلب فرآیند است.&lt;br&gt;از آن به ۳ روش می‌توان استفاده کرد:&lt;br&gt;۱. فروش نقدی (بازار نقدی)&lt;br&gt;۲. وثیقه گرفتن (تسهیلات)&lt;br&gt;۳. تحویل کالای فیزیکی" vertex="1">
+          <mxGeometry height="120" width="250" x="750" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="TaDh-FNcMzErmyh2uBWB-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;" value="&lt;b&gt;ابزارهای مشتقه:&lt;/b&gt;&lt;br&gt;قرارداد آتی ← اختیار معامله" vertex="1">
+          <mxGeometry height="60" width="200" x="750" y="1070" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ys49G64sC0aICdmIfDn0" name="Page-5">
+    <mxGraphModel dx="975" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qYK15kpkA4IqUQASaTFP-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=20;fontStyle=1;" value="COMMODITY CHAIN PROTOCOL - Web3 Evolution Roadmap" vertex="1">
+          <mxGeometry height="40" width="600" x="470" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;align=center;" value="PHYSICAL ASSET&lt;br&gt;(دارایی فیزیکی)&lt;br&gt;طلا، نقره، مس" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-3" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;align=center;" value="WAREHOUSE&lt;br&gt;(انبار پذیرفته‌شده)&lt;br&gt;تأییدشده توسط بورس" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-5" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;align=center;" value="&amp;nbsp;WAREHOUSE RECEIPT&lt;br&gt;(رسید انبار)&lt;br&gt;سند تحویل کالا" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-7" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;align=center;" value="CERTIFICATE&lt;br&gt;(گواهی سپرده)&lt;br&gt;سند رسمی مالکیت" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-9" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V1 - FOUNDATION" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-11" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=center;" value="MULTISIG WALLET&lt;br&gt;(کیف پول چندامضایی)&lt;br&gt;تأیید ۳ از ۵ نفر" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-13" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V2 - DIGITAL IDENTITY" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-15" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=center;" value="DID / VC&lt;br&gt;(هویت غیرمتمرکز)&lt;br&gt;کنترل هویت توسط کاربر" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-17" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V3 - PRIVACY &amp;amp; SCALABILITY" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-19" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=center;" value="ZK (Zero-Knowledge)&lt;br&gt;(اثبات دانش‌صفر)&lt;br&gt;اثبات بدون فاش‌سازی" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-21" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V4 - ON-CHAIN SETTLEMENT" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-23" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=center;" value="BLOCKCHAIN SETTLEMENT&lt;br&gt;(تسویه روی بلاکچین)&lt;br&gt;بدون واسطه" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="1310" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-25" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V5 - TRADING INFRASTRUCTURE" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-27" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=13;align=center;" value="ORDER / MATCHING&lt;br&gt;(سفارش‌گذاری و تطابق)&lt;br&gt;مثل DEX برای کالا" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="1460" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-29" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1;align=center;" value="V6 - FINAL VISION" vertex="1">
+          <mxGeometry height="30" width="240" x="530" y="1550" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-31" edge="1" parent="1" source="qYK15kpkA4IqUQASaTFP-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qYK15kpkA4IqUQASaTFP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;align=center;" value="DEFI / RWA&lt;br&gt;(امور مالی غیرمتمرکز)&lt;br&gt;کالا → ابزار مالی" vertex="1">
+          <mxGeometry height="60" width="200" x="550" y="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;" value="📌 RWA = Real World Assets&#xa;تبدیل دارایی‌های فیزیکی به دارایی‌های دیجیتال در بلاکچین" vertex="1">
+          <mxGeometry height="50" width="240" x="830" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qYK15kpkA4IqUQASaTFP-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;align=left;verticalAlign=top;spacingLeft=10;spacingTop=5;" value="🟢 سبز = دارایی فیزیکی&#xa;🔵 آبی = فرآیند انبارداری&#xa;🟡 زرد = اسناد و گواهی‌ها&#xa;🟣 بنفش = لایه‌های Web3&#xa;🔴 قرمز = نسخه‌های اصلی" vertex="1">
+          <mxGeometry height="110" width="125" x="887.5" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
